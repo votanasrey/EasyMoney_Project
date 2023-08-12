@@ -1,0 +1,32 @@
+class Routes {
+  static const splashRoute = '/';
+  static const dashboardRoute = '/dashboard';
+  static const homeRoute = '/home';
+  static const signInRoute = '/signin';
+  static const signUpRoute = '/signup';
+  static const productDetailRoute = "/productdetail";
+  static const notificationRoute = "/notification";
+  static const notFoundRoute = '/notfound';
+  static const otpVerificationRoute = '/otpverification';
+  static const verifyingKycRoute = '/verifyingkyc';
+  static const askToVerifyKycRoute = '/asktoverifykyc';
+  static const verifyingTransactionRoute = '/verifyingtransaction';
+  static const processingRequestLoanRoute = '/processingrequestloan';
+  static const categoryProductRoute = '/categoryproduct';
+  static const viewImageRoute = '/viewimage';
+  static const profileRoute = '/profile';
+  static const searchProductRoute = '/searchproduct';
+  static const uploadProductRoute = '/uploadproduct';
+  static const myProductsRoute = '/myproducts';
+  static const myOrdersRoute = '/myorders';
+  static const myFavoritesRoute = '/myfavorites';
+  static const processingLoanRoute = '/processingloan';
+  static const loanHistoryRoute = '/loanhistory';
+  static const accountSettingRoute = '/accountsetting';
+  static const marketplaceRoute = '/marketplace';
+  static const editProfileRoute = '/editprofile';
+  static const uploadTransactionReceiptRoute = '/uploadtransactionreceipt';
+  static const confirmLoanRequestRoute = '/confirmloanrequest';
+  static const uploadProofDocumentRoute = '/uploadproofdocument';
+  static const termsAndConditionsRoute = '/termsandcondtions';
+}
